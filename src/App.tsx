@@ -6,10 +6,10 @@ import GlobalStyle from './styles/global';
 const App: React.FC = () => (
     <>
         <BrowserRouter>
-            <  Routes />
+            <Routes />
         </BrowserRouter>
         <GlobalStyle />
     </>
-)
+);
 
 export default App;
